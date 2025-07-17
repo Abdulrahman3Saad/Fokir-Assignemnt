@@ -256,6 +256,7 @@ div iframe {
     animation: typed 3s infinite;
 }
 
+/**/
 @keyframes typed {
     0% {
         content: "|";
